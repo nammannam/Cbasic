@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1705475105 source:d:\2023.1_local\it3230 - c basic\ck\ck_c_basic\linked_list.c
+	<stdio.h>
+	<stdlib.h>
+
+1705474765 source:d:\2023.1_local\it3230 - c basic\ck\ck_c_basic\stack.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
